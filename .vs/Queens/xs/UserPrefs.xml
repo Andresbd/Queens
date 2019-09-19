@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1949F3C0-4C8A-44EF-83F9-3DA116B41D71}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Queen.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Queen.cs" Line="20" Column="21" />
+      <File FileName="Assets/Scripts/QueenSpawner.cs" />
+      <File FileName="Assets/Scripts/CreateScript.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Queens" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Queen.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f6841f77-2408-47d0-8e7e-cdbb50923c5c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
